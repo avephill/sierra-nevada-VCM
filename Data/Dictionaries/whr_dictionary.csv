@@ -1,0 +1,378 @@
+"X","CALVEG.Code","CALVEG.Description","CALVEG.Zone","CWHR.Type.Code","CWHR.Type.Description","CWHR.Lifeform.Code","CWHR.Lifeform.Description","GROWTH_FORM","CHAPorPINE","Raster_VALUE"
+1,"A1","Conifer Agriculture (Xmas Trees)",10,"EOR","Evergreen Orchard","WHR_CON","Conifer forest/woodland",NA,NA,NA
+2,"A2","Vineyard - Shrub Agriculture",10,"VIN","Vineyard","WHR_SHB","Shrub",NA,NA,NA
+3,"A3","Tilled Earth",10,"BAR","Barren","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,12
+4,"A4","Orchard Agriculture",10,"DOR, EOR, OVN","Deciduous Orchard, Evergreen Orchard, Orchard Vineyard (legacy code)","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+5,"A5","Flooded Row Crop Agriculture",10,"RIC","Rice","WHR_HEB","Herbaceous",NA,NA,NA
+6,"A6","Pastures and Crop Agriculture",10,"PAS, DGR, IGR, IRH, IRF, CRP","Pasture, Dryland Grain Crop, Irrigated Hayfield Crop, Irrigated Row and Field Crop, Cropland (legacy code)","WHR_HEB","Herbaceous",NA,NA,NA
+7,"A7","Agriculture Pond or Water Feature",10,"LAC","Lacustrine","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,22
+8,"A8","Nurseries",10,"EOR","Evergreen Orchard","WHR_MIX","Mixed conifer and hardwood forest/woodland",NA,NA,NA
+9,"AB","Santa Lucia Fir",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+10,"AB","Santa Lucia Fir",10,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+11,"AC","Alpine Grasses and Forbs",10,"ADS","Alpine Dwarf-Shrub","WHR_HEB","Herbaceous",NA,NA,43
+12,"AD","White Bursage",10,"DSC","Desert Scrub","WHR_SHB","Shrub","Shrub",NA,23
+13,"AG","Agriculture (General)",10,"CRP","Cropland","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,11
+14,"AK","Alkaline Flats",10,"BAR","Barren","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,12
+15,"AN","Mendocino Manzanita",10,"CSC","Coastal Scrub","WHR_SHB","Shrub",NA,NA,NA
+16,"AS","Shreve Oak",10,"COW","Coastal Oak Woodland","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+17,"AX","Alpine Mixed Scrub",10,"ADS","Alpine Dwarf-Shrub","WHR_SHB","Shrub",NA,NA,43
+18,"BA","Barren",10,"BAR","Barren","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,12
+19,"BB","Bitterbrush",10,"BBR","Bitterbrush","WHR_SHB","Shrub","Shrub",NA,18
+20,"BC","Saltbush",10,"ASC","Alkali Desert Scrub","WHR_SHB","Shrub","Shrub",NA,33
+21,"BG","Greasewood",10,"ASC","Alkali Desert Scrub","WHR_SHB","Shrub","Shrub",NA,33
+22,"BI","Littleleaf Mountain Mahogany",10,"SGB","Sagebrush","WHR_SHB","Shrub","Shrub",NA,31
+23,"BL","Low Sagebrush",10,"LSG","Low Sage","WHR_SHB","Shrub","Shrub",NA,34
+24,"BM","Curlleaf Mountain Mahogany",10,"SGB","Sagebrush","WHR_SHB","Shrub","Shrub",NA,31
+25,"BP","Bristlecone Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+26,"BP","Bristlecone Pine",10,"SCN","Subalpine Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,30
+27,"BQ","Great Basin Mixed Scrub",10,"SGB","Sagebrush","WHR_SHB","Shrub","Shrub",NA,31
+28,"BR","Rabbitbrush",10,"SGB","Sagebrush","WHR_SHB","Shrub","Shrub",NA,31
+29,"BS","Basin Sagebrush",10,"SGB","Sagebrush","WHR_SHB","Shrub","Shrub",NA,31
+30,"BT","Big Tree (Giant Sequoia)",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+31,"BT","Big Tree (Giant Sequoia)",10,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+32,"BX","Great Basin - Mixed Chaparral Transition",10,"MCP","Montane Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",4
+33,"BZ","Great Basin - Desert Mixed Scrub",10,"DSC","Desert Scrub","WHR_SHB","Shrub","Shrub",NA,23
+34,"C1","Ultramafic Mixed Shrub",10,"MCH","Mixed Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",7
+35,"CA","Chamise",10,"CRC","Chamise-Redshank Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",5
+36,"CB","Salal - California Huckleberry",10,"CSC","Coastal Scrub","WHR_SHB","Shrub",NA,NA,NA
+37,"CC","Ceanothus Mixed Chaparral",10,"MCH","Mixed Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",7
+38,"CD","Southern Mixed Chaparral",10,"MCH","Mixed Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",7
+39,"CE","Mountain Misery",10,"MCP","Montane Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",4
+40,"CG","Greenleaf Manzanita",10,"MCP","Montane Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",4
+41,"CH","Huckleberry Oak",10,"MCP","Montane Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",4
+42,"CI","Deerbrush",10,"MCP","Montane Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",4
+43,"CJ","Brewer Oak",10,"MCP","Montane Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",4
+44,"CK","Coyote Brush",10,"CSC","Coastal Scrub","WHR_SHB","Shrub",NA,NA,NA
+45,"CL","Wedgeleaf Ceanothus",10,"MCH","Mixed Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",7
+46,"CM","Upper Montane Mixed Shrub",10,"MCP","Montane Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",4
+47,"CN","Pinemat Manzanita",10,"MCP","Montane Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",4
+48,"CP","Bush Chinquapin",10,"MCP","Montane Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",4
+49,"CQ","Lower Montane Mixed Chaparral",10,"MCH","Mixed Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",7
+50,"CR","Red Shanks Chaparral",10,"CRC","Chamise-Redshank Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",5
+51,"CS","Scrub Oak",10,"MCH","Mixed Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",7
+52,"CT","Tucker / Muller Scrub Oak",10,"MCH","Mixed Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",7
+53,"CV","Snowbrush",10,"MCP","Montane Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",4
+54,"CW","Whiteleaf Manzanita",10,"MCH","Mixed Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",7
+55,"CX","Upper Montane Mixed Chaparral",10,"MCP","Montane Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",4
+56,"CY","Mountain Whitethorn",10,"MCP","Montane Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",4
+57,"CZ","Semi-Desert Chaparral",10,"MCH","Mixed Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",7
+58,"DA","Blackbush",10,"DSC","Desert Scrub","WHR_SHB","Shrub","Shrub",NA,23
+59,"DB","Desert Buckwheat",10,"DSC","Desert Scrub","WHR_SHB","Shrub","Shrub",NA,23
+60,"DC","Cholla",10,"DSS","Desert Succulent Scrub","WHR_SHB","Shrub",NA,NA,NA
+61,"DD","Croton",10,"DSC","Desert Scrub","WHR_SHB","Shrub","Shrub",NA,23
+62,"DE","Arrowweed",10,"DSW","Desert Wash","WHR_SHB","Shrub",NA,NA,NA
+63,"DF","Pacific Douglas-Fir",1,"DFR","Douglas Fir","WHR_CON","Conifer forest/woodland","Tree",NA,13
+64,"DF","Pacific Douglas-Fir",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+65,"DF","Pacific Douglas-Fir",2,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+66,"DF","Pacific Douglas-Fir",3,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+67,"DF","Pacific Douglas-Fir",4,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+68,"DF","Pacific Douglas-Fir",5,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+69,"DF","Pacific Douglas-Fir",6,"RDW","Redwood","WHR_CON","Conifer forest/woodland",NA,NA,NA
+70,"DF","Pacific Douglas-Fir",7,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+71,"DF","Pacific Douglas-Fir",8,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+72,"DF","Pacific Douglas-Fir",9,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+73,"DG","Douglas-Fir - Grand Fir",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+74,"DG","Douglas-Fir - Grand Fir",10,"RDW","Redwood","WHR_CON","Conifer forest/woodland",NA,NA,NA
+75,"DI","Indigo Bush",10,"DSC","Desert Scrub","WHR_SHB","Shrub","Shrub",NA,23
+76,"DJ","Spiny Menodora",10,"DSC","Desert Scrub","WHR_SHB","Shrub","Shrub",NA,23
+77,"DL","Creosote Bush",10,"DSC","Desert Scrub","WHR_SHB","Shrub","Shrub",NA,23
+78,"DM","Bigcone Douglas-Fir",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+79,"DM","Bigcone Douglas-Fir",10,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+80,"DO","Ocotillo",10,"DSS","Desert Succulent Scrub","WHR_SHB","Shrub",NA,NA,NA
+81,"DP","Douglas-Fir - Ponderosa Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+82,"DP","Douglas-Fir - Ponderosa Pine",10,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+83,"DS","Shadscale",10,"ASC","Alkali Desert Scrub","WHR_SHB","Shrub","Shrub",NA,33
+84,"DU","Dune",10,"BAR","Barren","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,12
+85,"DV","Desert Mixed Succulent Shrub",10,"DSS","Desert Succulent Scrub","WHR_SHB","Shrub",NA,NA,NA
+86,"DW","Douglas-Fir - White Fir",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+87,"DW","Douglas-Fir - White Fir",10,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+88,"DX","Desert Mixed Shrub",10,"DSC","Desert Scrub","WHR_SHB","Shrub","Shrub",NA,23
+89,"EA","Engelmann Spruce",10,"KMC","Klamath Mixed Conifer","WHR_CON","Conifer forest/woodland",NA,NA,NA
+90,"EA","Engelmann Spruce",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+91,"EP","Eastside Pine",10,"EPN","Eastside Pine","WHR_CON","Conifer forest/woodland","Tree","Low Elevation Conifers",28
+92,"EP","Eastside Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+93,"ET","Elephant Tree",10,"DSC","Desert Scrub","WHR_SHB","Shrub","Shrub",NA,23
+94,"EX","Coastal Mixed Hardwood",10,"COW","Coastal Oak Woodland","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+95,"FD","Ephedra",10,"DSC","Desert Scrub","WHR_SHB","Shrub","Shrub",NA,23
+96,"FM","Curlleaf Mountain Mahogany (tree)",10,"SGB","Sagebrush","WHR_HDW","Hardwood forest/woodland","Shrub",NA,31
+97,"FO","Water Birch",10,"DRI","Desert Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+98,"FP","Foxtail Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+99,"FP","Foxtail Pine",10,"SCN","Subalpine Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,30
+100,"GF","Grand Fir",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+101,"GF","Grand Fir",10,"RDW","Redwood","WHR_CON","Conifer forest/woodland",NA,NA,NA
+102,"HA","Alkaline Mixed Grasses",10,"ASC","Alkali Desert Scrub","WHR_HEB","Herbaceous","Shrub",NA,33
+103,"HC","Pickleweed - Cordgrass",10,"SEW","Saline Emergent Wetland","WHR_HEB","Herbaceous",NA,NA,42
+104,"HG","Annual Grasses and Forbs",10,"AGS","Annual Grassland","WHR_HEB","Herbaceous",NA,NA,2
+105,"HJ","Wet Meadows",10,"WTM","Wet Meadow","WHR_HEB","Herbaceous",NA,NA,17
+106,"HM","Perennial Grasses and Forbs",10,"PGS","Perennial Grassland","WHR_HEB","Herbaceous",NA,NA,32
+107,"HS","Cheesebush",10,"DSC","Desert Scrub","WHR_SHB","Shrub","Shrub",NA,23
+108,"HT","Tule - Cattail",10,"FEW","Fresh Emergent Wetland","WHR_HEB","Herbaceous",NA,NA,41
+109,"IA","Non-Native/Invasive Grass",10,"FEW","Fresh Emergent Wetland","WHR_HEB","Herbaceous",NA,NA,41
+110,"IB","Urban-related Bare Soil",10,"BAR","Barren","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,12
+111,"IC","Non-Native/Ornamental Conifer",10,"URB","Urban","WHR_CON","Conifer forest/woodland",NA,NA,19
+112,"IF","Non-Native/Invasive Forb",10,"URB","Urban","WHR_HEB","Herbaceous",NA,NA,19
+113,"IG","Non-Native/Ornamental Grass",10,"URB","Urban","WHR_HEB","Herbaceous",NA,NA,19
+114,"IH","Non-Native/Ornamental Hardwood",10,"URB","Urban","WHR_HDW","Hardwood forest/woodland",NA,NA,19
+115,"IM","Non-Native/Ornamental Conifer/Hardwood",10,"URB","Urban","WHR_MIX","Mixed conifer and hardwood forest/woodland",NA,NA,19
+116,"IS","Non-Native/Ornamental Shrub",10,"URB","Urban","WHR_SHB","Shrub",NA,NA,19
+117,"IW","Urban or Industrial Impoundment",10,"LAC","Lacustrine","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,22
+118,"JC","California Juniper (shrub)",10,"JUN","Juniper","WHR_SHB","Shrub",NA,NA,35
+119,"JJ","Yellow Pine - Western Juniper",10,"EPN","Eastside Pine","WHR_CON","Conifer forest/woodland","Tree","Low Elevation Conifers",28
+120,"JJ","Yellow Pine - Western Juniper",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+121,"JP","Jeffrey Pine",10,"JPN","Jeffrey Pine","WHR_CON","Conifer forest/woodland","Tree","Low Elevation Conifers",24
+122,"JP","Jeffrey Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+123,"JT","California Juniper (tree)",10,"JUN","Juniper","WHR_CON","Conifer forest/woodland",NA,NA,35
+124,"JT","California Juniper (tree)",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+125,"JU","Utah Juniper",10,"JUN","Juniper","WHR_CON","Conifer forest/woodland",NA,NA,35
+126,"JU","Utah Juniper",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+127,"KL","Winter Fat",10,"ASC","Alkali Desert Scrub","WHR_SHB","Shrub","Shrub",NA,33
+128,"KP","Knobcone Pine",10,"CPC","Closed-Cone Pine-Cypress","WHR_CON","Conifer forest/woodland","Tree",NA,9
+129,"KP","Knobcone Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+130,"KQ","Aspen (shrub)",10,"ASP","Aspen","WHR_SHB","Shrub",NA,NA,27
+131,"LP","Lodgepole Pine",10,"LPN","Lodgepole Pine","WHR_CON","Conifer forest/woodland","Tree",NA,25
+132,"LP","Lodgepole Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+133,"LS","Scalebroom",10,"DSW","Desert Wash","WHR_SHB","Shrub",NA,NA,NA
+134,"MB","Mixed Conifer - Giant Sequoia",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+135,"MB","Mixed Conifer - Giant Sequoia",10,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+136,"MC","Cuyamaca Cypress",10,"CPC","Closed-Cone Pine-Cypress","WHR_CON","Conifer forest/woodland","Tree",NA,9
+137,"MC","Cuyamaca Cypress",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+138,"MD","Incense Cedar",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+139,"MD","Incense Cedar",10,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+140,"MF","Mixed Conifer - Fir",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+141,"MF","Mixed Conifer - Fir",10,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+142,"MG","Gowen Cypress",10,"CPC","Closed-Cone Pine-Cypress","WHR_CON","Conifer forest/woodland","Tree",NA,9
+143,"MG","Gowen Cypress",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+144,"MH","Mountain Hemlock",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+145,"MH","Mountain Hemlock",10,"SCN","Subalpine Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,30
+146,"MI","Piute Cypress",10,"CPC","Closed-Cone Pine-Cypress","WHR_CON","Conifer forest/woodland","Tree",NA,9
+147,"MI","Piute Cypress",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+148,"MK","Klamath Mixed Conifer",10,"KMC","Klamath Mixed Conifer","WHR_CON","Conifer forest/woodland",NA,NA,NA
+149,"MK","Klamath Mixed Conifer",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+150,"ML","Baccharis (Riparian)",1,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+151,"ML","Baccharis (Riparian)",2,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+152,"ML","Baccharis (Riparian)",3,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+153,"ML","Baccharis (Riparian)",4,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+154,"ML","Baccharis (Riparian)",5,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+155,"ML","Baccharis (Riparian)",6,"VRI","Valley Foothill Riparian","WHR_SHB","Shrub",NA,NA,38
+156,"ML","Baccharis (Riparian)",7,"VRI","Valley Foothill Riparian","WHR_SHB","Shrub",NA,NA,38
+157,"ML","Baccharis (Riparian)",8,"DRI","Desert Riparian","WHR_SHB","Shrub",NA,NA,NA
+158,"ML","Baccharis (Riparian)",9,"DRI","Desert Riparian","WHR_SHB","Shrub",NA,NA,NA
+159,"MM","Monterey Cypress",10,"CPC","Closed-Cone Pine-Cypress","WHR_CON","Conifer forest/woodland","Tree",NA,9
+160,"MM","Monterey Cypress",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+161,"MN","McNab Cypress",10,"CPC","Closed-Cone Pine-Cypress","WHR_CON","Conifer forest/woodland","Tree",NA,9
+162,"MN","McNab Cypress",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+163,"MO","Baker Cypress",10,"CPC","Closed-Cone Pine-Cypress","WHR_CON","Conifer forest/woodland","Tree",NA,9
+164,"MO","Baker Cypress",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+165,"MP","Mixed Conifer - Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+166,"MP","Mixed Conifer - Pine",10,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+167,"MS","Sargent Cypress",10,"CPC","Closed-Cone Pine-Cypress","WHR_CON","Conifer forest/woodland","Tree",NA,9
+168,"MS","Sargent Cypress",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+169,"MT","Tecate Cypress",10,"CPC","Closed-Cone Pine-Cypress","WHR_CON","Conifer forest/woodland","Tree",NA,9
+170,"MT","Tecate Cypress",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+171,"MU","Ultramafic Mixed Conifer",10,"KMC","Klamath Mixed Conifer","WHR_CON","Conifer forest/woodland",NA,NA,NA
+172,"MU","Ultramafic Mixed Conifer",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+173,"MY","Pygmy Cypress",10,"CPC","Closed-Cone Pine-Cypress","WHR_CON","Conifer forest/woodland","Tree",NA,9
+174,"MY","Pygmy Cypress",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+175,"MZ","Santa Cruz Cypress",10,"CPC","Closed-Cone Pine-Cypress","WHR_CON","Conifer forest/woodland","Tree",NA,9
+176,"MZ","Santa Cruz Cypress",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+177,NA,"Alkaline Mixed Scrub",10,"ASC","Alkali Desert Scrub","WHR_SHB","Shrub","Shrub",NA,33
+178,"NB","Desert Mixed Wash Shrub",10,"DSW","Desert Wash","WHR_SHB","Shrub",NA,NA,NA
+179,"NC","North Coast Mixed Shrub",10,"CSC","Coastal Scrub","WHR_SHB","Shrub",NA,NA,NA
+180,"NI","Nissenan Manzanita",10,"MCH","Mixed Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",7
+181,"NM","Riparian Mixed Shrub",1,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+182,"NM","Riparian Mixed Shrub",2,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+183,"NM","Riparian Mixed Shrub",3,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+184,"NM","Riparian Mixed Shrub",4,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+185,"NM","Riparian Mixed Shrub",5,"VRI","Valley Foothill Riparian","WHR_SHB","Shrub",NA,NA,38
+186,"NM","Riparian Mixed Shrub",6,"VRI","Valley Foothill Riparian","WHR_SHB","Shrub",NA,NA,38
+187,"NM","Riparian Mixed Shrub",7,"VRI","Valley Foothill Riparian","WHR_SHB","Shrub",NA,NA,38
+188,"NM","Riparian Mixed Shrub",8,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+189,"NM","Riparian Mixed Shrub",9,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+190,"NQ","High Desert Mixed Scrub",10,"DSC","Desert Scrub","WHR_SHB","Shrub","Shrub",NA,23
+191,"NR","Riparian Mixed Hardwood",1,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+192,"NR","Riparian Mixed Hardwood",2,"ASP","Aspen","WHR_HDW","Hardwood forest/woodland",NA,NA,27
+193,"NR","Riparian Mixed Hardwood",3,"ASP","Aspen","WHR_HDW","Hardwood forest/woodland",NA,NA,27
+194,"NR","Riparian Mixed Hardwood",4,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+195,"NR","Riparian Mixed Hardwood",5,"VRI","Valley Foothill Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,38
+196,"NR","Riparian Mixed Hardwood",6,"VRI","Valley Foothill Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,38
+197,"NR","Riparian Mixed Hardwood",7,"VRI","Valley Foothill Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,38
+198,"NR","Riparian Mixed Hardwood",8,"VRI","Valley Foothill Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,38
+199,"NR","Riparian Mixed Hardwood",9,"ASP","Aspen","WHR_HDW","Hardwood forest/woodland",NA,NA,27
+200,"NX","Interior Mixed Hardwood",10,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+201,"OS","Beach Sand",10,"MAR","Marine","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,NA
+202,"PB","Brewer Spruce",10,"KMC","Klamath Mixed Conifer","WHR_CON","Conifer forest/woodland",NA,NA,NA
+203,"PB","Brewer Spruce",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+204,"PC","Coulter Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+205,"PC","Coulter Pine",10,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+206,"PD","Gray Pine",10,"BOP","Blue Oak-Foothill Pine","WHR_CON","Conifer forest/woodland","Tree",NA,3
+207,"PD","Gray Pine",10,"BOP","Blue Oak-Foothill Pine","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,3
+208,"PE","Sugar Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+209,"PE","Sugar Pine",10,"SMC","Sierran Mixed Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,10
+210,"PJ","Singleleaf Pinyon Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+211,"PJ","Singleleaf Pinyon Pine",10,"PJN","Pinyon-Juniper","WHR_CON","Conifer forest/woodland","Tree",NA,40
+212,"PL","Limber Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+213,"PL","Limber Pine",10,"SCN","Subalpine Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,30
+214,"PM","Bishop Pine",10,"CPC","Closed-Cone Pine-Cypress","WHR_CON","Conifer forest/woodland","Tree",NA,9
+215,"PM","Bishop Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+216,"PO","Port Orford Cedar",10,"KMC","Klamath Mixed Conifer","WHR_CON","Conifer forest/woodland",NA,NA,NA
+217,"PO","Port Orford Cedar",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+218,"PP","Ponderosa Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+219,"PP","Ponderosa Pine",10,"PPN","Ponderosa Pine","WHR_CON","Conifer forest/woodland","Tree","Low Elevation Conifers",6
+220,"PQ","Fourneedle Pinyon Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+221,"PQ","Fourneedle Pinyon Pine",10,"PJN","Pinyon-Juniper","WHR_CON","Conifer forest/woodland","Tree",NA,40
+222,"PR","Monterey Pine",10,"CPC","Closed-Cone Pine-Cypress","WHR_CON","Conifer forest/woodland","Tree",NA,9
+223,"PR","Monterey Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+224,"PS","Shore Pine",10,"CPC","Closed-Cone Pine-Cypress","WHR_CON","Conifer forest/woodland","Tree",NA,9
+225,"PS","Shore Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+226,"PT","Torrey Pine",10,"CPC","Closed-Cone Pine-Cypress","WHR_CON","Conifer forest/woodland","Tree",NA,9
+227,"PT","Torrey Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+228,"PW","Ponderosa Pine - White Fir",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+229,"PW","Ponderosa Pine - White Fir",10,"PPN","Ponderosa Pine","WHR_CON","Conifer forest/woodland","Tree","Low Elevation Conifers",6
+230,"QA","Coast Live Oak",10,"COW","Coastal Oak Woodland","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+231,"QB","California Bay",1,"COW","Coastal Oak Woodland","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+232,"QB","California Bay",2,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+233,"QB","California Bay",3,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+234,"QB","California Bay",4,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+235,"QB","California Bay",5,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+236,"QB","California Bay",6,"COW","Coastal Oak Woodland","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+237,"QB","California Bay",7,"COW","Coastal Oak Woodland","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+238,"QB","California Bay",8,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+239,"QB","California Bay",9,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+240,"QC","Canyon Live Oak",10,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+241,"QD","Blue Oak",10,"BOW","Blue Oak Woodland","WHR_HDW","Hardwood forest/woodland","Tree",NA,8
+242,"QE","White Alder",10,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+243,"QF","Fremont Cottonwood",1,"VRI","Valley Foothill Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,38
+244,"QF","Fremont Cottonwood",2,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+245,"QF","Fremont Cottonwood",3,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+246,"QF","Fremont Cottonwood",4,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+247,"QF","Fremont Cottonwood",5,"VRI","Valley Foothill Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,38
+248,"QF","Fremont Cottonwood",6,"VRI","Valley Foothill Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,38
+249,"QF","Fremont Cottonwood",7,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+250,"QF","Fremont Cottonwood",8,"DRI","Desert Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+251,"QF","Fremont Cottonwood",9,"DRI","Desert Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+252,"QG","Oregon White Oak",10,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+253,"QH","Madrone",1,"COW","Coastal Oak Woodland","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+254,"QH","Madrone",2,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+255,"QH","Madrone",3,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+256,"QH","Madrone",4,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+257,"QH","Madrone",5,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+258,"QH","Madrone",6,"COW","Coastal Oak Woodland","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+259,"QH","Madrone",7,"COW","Coastal Oak Woodland","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+260,"QH","Madrone",8,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+261,"QH","Madrone",9,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+262,"QI","California Buckeye",10,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+263,"QJ","Cottonwood - Alder",10,"VRI","Valley Foothill Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,38
+264,"QK","Black Oak",10,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+265,"QL","Valley Oak",10,"VOW","Valley Oak Woodland","WHR_HDW","Hardwood forest/woodland","Tree",NA,20
+266,"QM","Bigleaf Maple",10,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+267,"QN","Engelmann Oak",10,"COW","Coastal Oak Woodland","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+268,"QO","Willow",1,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+269,"QO","Willow",2,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+270,"QO","Willow",3,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+271,"QO","Willow",4,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+272,"QO","Willow",5,"VRI","Valley Foothill Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,38
+273,"QO","Willow",6,"VRI","Valley Foothill Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,38
+274,"QO","Willow",7,"VRI","Valley Foothill Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,38
+275,"QO","Willow",8,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+276,"QO","Willow",9,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+277,"QP","California Sycamore",10,"VRI","Valley Foothill Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,38
+278,"QQ","Quaking Aspen",10,"ASP","Aspen","WHR_HDW","Hardwood forest/woodland",NA,NA,27
+279,"QR","Red Alder",10,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+280,"QS","Willow - Aspen",10,"ASP","Aspen","WHR_HDW","Hardwood forest/woodland",NA,NA,27
+281,"QT","Tanoak (Madrone)",10,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+282,"QV","California Walnut",10,"COW","Coastal Oak Woodland","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+283,"QW","Interior Live Oak",1,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+284,"QW","Interior Live Oak",2,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+285,"QW","Interior Live Oak",3,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+286,"QW","Interior Live Oak",4,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+287,"QW","Interior Live Oak",5,"VOW","Valley Oak Woodland","WHR_HDW","Hardwood forest/woodland","Tree",NA,20
+288,"QW","Interior Live Oak",6,"COW","Coastal Oak Woodland","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+289,"QW","Interior Live Oak",7,"COW","Coastal Oak Woodland","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+290,"QW","Interior Live Oak",8,"VOW","Valley Oak Woodland","WHR_HDW","Hardwood forest/woodland","Tree",NA,20
+291,"QW","Interior Live Oak",9,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+292,"QX","Black Cottonwood",10,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+293,"QY","Willow - Alder",10,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+294,"QZ","Eucalyptus",10,"EUC","Eucalyptus","WHR_HDW","Hardwood forest/woodland","Tree",NA,39
+295,"RD","Redwood - Douglas-Fir",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+296,"RD","Redwood - Douglas-Fir",10,"RDW","Redwood","WHR_CON","Conifer forest/woodland",NA,NA,NA
+297,"RF","Red Fir",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+298,"RF","Red Fir",10,"RFR","Red fir","WHR_CON","Conifer forest/woodland","Tree",NA,26
+299,"RS","Riversidean Alluvial Scrub",10,"DSW","Desert Wash","WHR_SHB","Shrub",NA,NA,NA
+300,"RW","Redwood",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+301,"RW","Redwood",10,"RDW","Redwood","WHR_CON","Conifer forest/woodland",NA,NA,NA
+302,"SA","Subalpine Conifers",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+303,"SA","Subalpine Conifers",10,"SCN","Subalpine Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,30
+304,"SB","Buckwheat",10,"MCH","Mixed Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",7
+305,"SC","Blueblossom Ceanothus",10,"CSC","Coastal Scrub","WHR_SHB","Shrub",NA,NA,NA
+306,"SD","Manzanita Chaparral",10,"MCH","Mixed Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",7
+307,"SE","Encelia Scrub",10,"DSC","Desert Scrub","WHR_SHB","Shrub","Shrub",NA,23
+308,"SG","Sitka Spruce - Grand Fir",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+309,"SG","Sitka Spruce - Grand Fir",10,"RDW","Redwood","WHR_CON","Conifer forest/woodland",NA,NA,NA
+310,"SH","Coastal Bluff Scrub",10,"CSC","Coastal Scrub","WHR_SHB","Shrub",NA,NA,NA
+311,"SI","Bladderpod",10,"MCH","Mixed Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",7
+312,"SK","Sitka Spruce",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+313,"SK","Sitka Spruce",10,"RDW","Redwood","WHR_CON","Conifer forest/woodland",NA,NA,NA
+314,"SL","Coastal Lupine",10,"CSC","Coastal Scrub","WHR_SHB","Shrub",NA,NA,NA
+315,"SM","Sumac Shrub",10,"MCH","Mixed Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",7
+316,"SN","Snow/Ice",10,"BAR","Barren","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,12
+317,"SO","Coastal Cactus",10,"CSC","Coastal Scrub","WHR_SHB","Shrub",NA,NA,NA
+318,"SP","Sage (Salvia spp.)",10,"CSC","Coastal Scrub","WHR_SHB","Shrub",NA,NA,NA
+319,"SQ","Soft Scrub Mixed Chaparral",10,"CSC","Coastal Scrub","WHR_SHB","Shrub",NA,NA,NA
+320,"SR","Sitka Spruce - Redwood",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+321,"SR","Sitka Spruce - Redwood",10,"RDW","Redwood","WHR_CON","Conifer forest/woodland",NA,NA,NA
+322,"SS","California Sagebrush",10,"CSC","Coastal Scrub","WHR_SHB","Shrub",NA,NA,NA
+323,"SY","Chaparral Yucca",10,"MCH","Mixed Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",7
+324,"TA","Mountain Alder",10,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+325,"TB","Bitterbrush - Sagebrush",10,"BBR","Bitterbrush","WHR_SHB","Shrub","Shrub",NA,18
+326,"TC","Tree Chinquapin",10,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+327,"TM","Horsebrush",10,"DSC","Desert Scrub","WHR_SHB","Shrub","Shrub",NA,23
+328,"TN","Black Sagebrush",10,"LSG","Low Sage","WHR_SHB","Shrub","Shrub",NA,34
+329,"TR","Rothrock Sagebrush",10,"ADS","Alpine Dwarf-Shrub","WHR_SHB","Shrub",NA,NA,43
+330,"TS","Snowberry",10,"MCP","Montane Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",4
+331,"TT","Big Basin Sagebrush",10,"SGB","Sagebrush","WHR_SHB","Shrub","Shrub",NA,31
+332,"TU","Silver Sagebrush",10,"LSG","Low Sage","WHR_SHB","Shrub","Shrub",NA,34
+333,"TV","Mountain Sagebrush",10,"SGB","Sagebrush","WHR_SHB","Shrub","Shrub",NA,31
+334,"TW","Wyoming Sagebrush",10,"SGB","Sagebrush","WHR_SHB","Shrub","Shrub",NA,31
+335,"TX","Montane Mixed Hardwood",10,"MHW","Montane Hardwood","WHR_HDW","Hardwood forest/woodland","Tree",NA,1
+336,"UB","Urban/Developed (General)",10,"URB","Urban","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,19
+337,"UD","Desert Willow",10,"DSW","Desert Wash","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+338,"UI","Desert Ironwood",10,"DSW","Desert Wash","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+339,"UJ","Joshua Tree",10,"JST","Joshua Tree","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+340,"UL","Catclaw Acacia",10,"DSW","Desert Wash","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+341,"UM","Mesquite",10,"DRI","Desert Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+342,"UP","Palo Verde",10,"DSW","Desert Wash","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+343,"UT","Tamarisk",10,"DRI","Desert Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+344,"UW","Fan Palm",10,"POS","Palm Oasis","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+345,"UX","Smoke Tree",10,"DSW","Desert Wash","WHR_HDW","Hardwood forest/woodland",NA,NA,NA
+346,"VP","Vernal Pool",10,"AGS","Annual Grassland","WHR_HEB","Herbaceous",NA,NA,2
+347,"W1","River/Stream/Canal",10,"RIV","Riverine","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,NA
+348,"W2","Perennial Lake or Pond",10,"LAC","Lacustrine","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,22
+349,"W3","Reservoir",10,"LAC","Lacustrine","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,22
+350,"W4","Bay or Estuary",10,"EST","Estuarine","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,NA
+351,"W5","Playa",10,"LAC","Lacustrine","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,22
+352,"W6","Intermittent Stream Channel",10,"RIV","Riverine","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,NA
+353,"W7","Ocean",10,"MAR","Marine","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,NA
+354,"W8","Intermittent Lake or Pond",10,"LAC","Lacustrine","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,22
+355,"W9","High Water Line/Gravel/Sand Bar",10,"RIV","Riverine","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,NA
+356,"WA","Water (General)",10,"LAC","Lacustrine","WHR_NFO","Non and Sparsely Vegetated - Urban, Agriculture or Aquatic",NA,NA,22
+357,"WB","Whitebark Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+358,"WB","Whitebark Pine",10,"SCN","Subalpine Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,30
+359,"WD","Dogwood",10,"MRI","Montane Riparian","WHR_HDW","Hardwood forest/woodland",NA,NA,21
+360,"WF","White Fir",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+361,"WF","White Fir",10,"WFR","White fir","WHR_CON","Conifer forest/woodland","Tree",NA,15
+362,"WJ","Western Juniper",10,"JUN","Juniper","WHR_CON","Conifer forest/woodland",NA,NA,35
+363,"WJ","Western Juniper",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+364,"WL","Willow (Shrub)",1,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+365,"WL","Willow (Shrub)",2,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+366,"WL","Willow (Shrub)",3,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+367,"WL","Willow (Shrub)",4,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+368,"WL","Willow (Shrub)",5,"VRI","Valley Foothill Riparian","WHR_SHB","Shrub",NA,NA,38
+369,"WL","Willow (Shrub)",6,"VRI","Valley Foothill Riparian","WHR_SHB","Shrub",NA,NA,38
+370,"WL","Willow (Shrub)",7,"VRI","Valley Foothill Riparian","WHR_SHB","Shrub",NA,NA,38
+371,"WL","Willow (Shrub)",8,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+372,"WL","Willow (Shrub)",9,"MRI","Montane Riparian","WHR_SHB","Shrub",NA,NA,21
+373,"WM","Birchleaf Mountain Mahogany",10,"MCH","Mixed Chaparral","WHR_SHB","Shrub","Shrub","All Chaparral",7
+374,"WP","Washoe Pine",10,"EPN","Eastside Pine","WHR_CON","Conifer forest/woodland","Tree","Low Elevation Conifers",28
+375,"WP","Washoe Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+376,"WW","Western White Pine",10,"MHC","Montane Hardwood-Conifer","WHR_MIX","Mixed conifer and hardwood forest/woodland","Tree",NA,14
+377,"WW","Western White Pine",10,"SCN","Subalpine Conifer","WHR_CON","Conifer forest/woodland","Tree",NA,30
