@@ -11,3 +11,5 @@ Based on comparing the historical climatic niche to the modern distribution of c
 We found that these VCM estimates carry empirical consequences: likelihood of type- conversion increased by 9.2% for every 10% decrease in habitat suitability. 
 Maps of Sierra Nevada VCM can help guide long-term land management decisions by distinguishing areas likely to transition from those expected to remain stable in the near future. 
 This can help direct limited resources to their most effective uses—whether it be protecting land or managing vegetation transitions—in the effort to maintain biodiversity, ecosystem services, and public health in the Sierra Nevada.
+
+### Please email me if you'd like access to our VCM maps
