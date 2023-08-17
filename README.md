@@ -10,7 +10,7 @@ Wieslander survey data are available thanks to the efforts of the [VTM Digitizat
 
 
 ## Data Products
-The VCM map shown in Figure 2 of the manuscript is available in the `data` folder as [SierraNevadaVCM_2015-2020.gpkg](https://github.com/avephill/sierra-nevada-VCM/blob/main/data/SierraNevadaVCM_2015-2020.gpkg). This was originally a raster at 800m resolution but was vectorized here for convenience. 
+The VCM map shown in Figure 2 of the manuscript is available in the `data` folder as [SierraNevadaVCM_2015-2020.gpkg](https://github.com/avephill/sierra-nevada-VCM/blob/main/data/SierraNevadaVCM_2015-2020.gpkg). This was originally a raster at 800m resolution but was vectorized here for convenience. You can view these data in [this interactive shiny app](https://avephill.shinyapps.io/Sierra-Nevada-VCM/)
 
 If you're interested in projections to future time periods or different time windows (e.g. 2000-2020) please email me and I'll be happy to help.
 
